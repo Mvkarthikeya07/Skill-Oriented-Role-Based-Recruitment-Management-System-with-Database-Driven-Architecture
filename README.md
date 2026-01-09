@@ -1,13 +1,6 @@
-💼 Skill-Based Job & Internship Platform
+💼 Role-Based Skill-Oriented Job and Recruitment Management System
 
 A Role-Based Recruitment and Application Management System
-
-
-
-
-
-
-
 
 📌 Overview
 
