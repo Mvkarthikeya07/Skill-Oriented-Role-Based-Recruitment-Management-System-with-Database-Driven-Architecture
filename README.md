@@ -70,7 +70,7 @@ Post job openings
 View posted job listings
 
 Manage recruitment data
-
+````
 🏗️ Project Structure
 skill_based_job_platform/
 │
@@ -92,7 +92,7 @@ skill_based_job_platform/
 ├── requirements.txt                # Python dependencies
 ├── LICENSE
 └── README.md                       # Project documentation
-
+`````
 🔄 Application Workflow
 
 User registers and logs into the system
