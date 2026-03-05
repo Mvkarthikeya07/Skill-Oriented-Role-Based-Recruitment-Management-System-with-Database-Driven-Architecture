@@ -21,7 +21,7 @@ Enable job posting, listing, and application workflows
 Store and manage recruitment data using a relational database
 
 Apply DBMS and backend concepts in a real-world web system
-
+````
 🚀 Key Features
 
 ✔ User registration and login system
@@ -32,7 +32,7 @@ Apply DBMS and backend concepts in a real-world web system
 ✔ Application status tracking
 ✔ Persistent data storage using a relational database
 ✔ Clean and responsive user interface
-
+````
 🧠 System Design Approach
 
 The application follows a database-centric web architecture with clear separation between presentation, application logic, and data layers.
