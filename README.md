@@ -1,4 +1,4 @@
-💼 Skill-Oriented Role-Based Recruitment Management System with Database-Driven Architecture
+ 💼 Skill-Oriented Role-Based Recruitment Management System with Database-Driven Architecture
 
 A Role-Based Recruitment and Application Management System
 
