@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>💼 Skill-Oriented Role-Based Recruitment Management Syste</h1>
+<h1>💼 Skill-Oriented Role-Based Recruitment Management System</h1>
 <h3>Database-Driven Architecture · Flask · SQLite · RBAC · Full-Stack Web Application</h3>
 
 <br/>
